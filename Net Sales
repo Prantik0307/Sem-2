@@ -1,0 +1,6 @@
+gross = float(input("Enter gross sales: "))
+
+discount = 0.10 * gross
+net_sales = gross - discount
+
+print("Net Sales =", net_sales)
