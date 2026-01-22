@@ -1,0 +1,7 @@
+kb = float(input("Enter KB: "))
+
+mb = kb / 1024
+gb = mb / 1024
+
+print("MB =", mb)
+print("GB =", gb)
